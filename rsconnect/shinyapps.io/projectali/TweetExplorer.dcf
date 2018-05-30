@@ -1,0 +1,12 @@
+name: TweetExplorer
+title: TweetExplorer
+username:
+account: projectali
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 349861
+bundleId: 1396417
+url: https://projectali.shinyapps.io/TweetExplorer/
+when: 1527507014.09804
+asMultiple: FALSE
+asStatic: FALSE
